@@ -14,7 +14,7 @@ This is a ReactJS based personal resume website template for participants of The
 #### PROCEDURE:
 - Download the zip folder from Github and unzip it
 Here is the link to download zip 👉
-<a href='https://github.com/CleverProgrammers/react-portfolio'>HERE</a>
+<a href='https://github.com/CleverProgrammers/portfolio-react-cp/archive/master.zip'>HERE</a>
 - Open the folder in VS Code
 - Edit <code>src/portfolio.js</code> and add your personal details and projects
 - Open terminal in VS Code
