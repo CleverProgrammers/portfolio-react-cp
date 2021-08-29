@@ -18,6 +18,7 @@ export default function Footer() {
             developerFolio
           </a>
         </p>
+     <p className= copy>&#169 Celever Programmer 2021</p>
       </div>
     </Fade>
   );
